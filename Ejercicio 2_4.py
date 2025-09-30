@@ -53,7 +53,7 @@ class TrianguloRectangulo:
     else:
       print("Es un triángulo isósceles")
 
-if __name__ == "__main__":
+class PruebaFiguras:
   if __name__ == "__main__":
     figura1 = Circulo(2)
     figura2 = Rectangulo(1, 2)
